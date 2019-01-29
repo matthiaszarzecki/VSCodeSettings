@@ -1,0 +1,21 @@
+{
+    "window.title": "${activeEditorLong}${separator}${rootName}",
+    "window.zoomLevel": 0,
+    "editor.tabSize": 2,
+    "git.autofetch": true,
+    "editor.fontFamily": "'Fira Code'",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "files.associations": {
+        "Jenkinsfile": "groovy",
+        "Fastfile": "ruby",
+        "Podfile": "ruby",
+        "Matchfile": "ruby",
+        "Deliverfile": "ruby",
+        "Gymfile": "ruby",
+        "Pluginfile": "ruby",
+        "Snapfile": "ruby",
+        "commands_*.txt": "ruby",
+        "commands_jenkins.txt": "groovy"
+    }
+}
