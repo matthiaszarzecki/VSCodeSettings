@@ -16,6 +16,8 @@
         "Pluginfile": "ruby",
         "Snapfile": "ruby",
         "commands_*.txt": "ruby",
-        "commands_jenkins.txt": "groovy"
+        "commands_shell.txt": "shellscript",
+        "commands_jenkins.txt": "groovy",
+        "*.command": "shellscript"
     }
 }
