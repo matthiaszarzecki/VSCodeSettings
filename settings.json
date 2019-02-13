@@ -6,6 +6,7 @@
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
+    "editor.wordWrap": "on",
     "files.associations": {
         "Jenkinsfile": "groovy",
         "Fastfile": "ruby",
