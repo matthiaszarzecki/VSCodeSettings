@@ -18,6 +18,7 @@
         "Snapfile": "ruby",
         "commands_*.txt": "ruby",
         "commands_shell.txt": "shellscript",
+        "commands_docker.txt": "shellscript",
         "commands_jenkins.txt": "groovy",
         "*.command": "shellscript"
     }
