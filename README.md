@@ -5,5 +5,5 @@
 My custom settings for Visual Studio Code
 
 ## Manually installed plugins
-Beautify
-Bracket Pair Colorizer 2
+- Beautify
+- Bracket Pair Colorizer 2
