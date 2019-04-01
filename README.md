@@ -4,6 +4,18 @@
 
 My custom settings for Visual Studio Code
 
-## Manually installed plugins
+### Manually installed plugins
 - Beautify
 - Bracket Pair Colorizer 2
+- Lorem Ipsum
+- ESLint
+- PrintCode
+- Sort Lines
+
+### Automatically installed plugins
+- C#
+- Dart
+- Docker
+- Flutter
+- jshint
+- Python
