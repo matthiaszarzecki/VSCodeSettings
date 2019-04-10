@@ -12,6 +12,7 @@ My custom settings for Visual Studio Code
 - PrintCode
 - Sort Lines
 - VSCode Great Icons
+- Swift Language
 
 
 ### Automatically installed plugins
