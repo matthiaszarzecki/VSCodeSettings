@@ -11,6 +11,8 @@ My custom settings for Visual Studio Code
 - ESLint
 - PrintCode
 - Sort Lines
+- VSCode Great Icons
+
 
 ### Automatically installed plugins
 - C#
