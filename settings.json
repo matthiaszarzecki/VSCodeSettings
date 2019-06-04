@@ -20,6 +20,9 @@
         "commands_shell.txt": "shellscript",
         "commands_docker.txt": "shellscript",
         "commands_jenkins.txt": "groovy",
-        "*.command": "shellscript"
-    }
+        "*.command": "shellscript",
+        ".bash_profile": "shellscript",
+        ".bash_history": "shellscript",
+    },
+    "workbench.iconTheme": "material-icon-theme"
 }
