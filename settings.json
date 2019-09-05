@@ -32,9 +32,8 @@
     "csharp.suppressDotnetInstallWarning": true,
     "dart.previewFlutterUiGuides": true,
     "explorer.confirmDelete": false,
-    "editor.rulers": [
-        120
-    ],
+    "editor.rulers": [80],
     "editor.wordWrapColumn": 120,
     "dart.previewFlutterOutline": true,
+    "vscode_custom_css.imports": ["file:///Users/matthias.zarzecki/vscode_settings/synthwave84.css"],
 }
