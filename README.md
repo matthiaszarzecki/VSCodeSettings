@@ -13,7 +13,9 @@ My custom settings for Visual Studio Code
 - Sort Lines
 - Material Icon Theme
 - Swift Language
-
+- Todo Tree
+- SynthWave '84
+- Custom CSS and JS Loader
 
 ### Automatically installed plugins
 - C#
