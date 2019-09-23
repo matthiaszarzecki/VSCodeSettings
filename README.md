@@ -15,7 +15,12 @@ My custom settings for Visual Studio Code
 - Swift Language
 - Todo Tree
 - SynthWave '84
-- Custom CSS and JS Loader
+- Custom CSS and JS Loader (needed for SynthWave '84)
+- Better Comments
+- Alphabetical Order
+- Color Highlight
+- Image Preview
+- Pubspec Assist
 
 ### Automatically installed plugins
 - C#
