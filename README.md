@@ -21,6 +21,9 @@ My custom settings for Visual Studio Code
 - Color Highlight
 - Image Preview
 - Pubspec Assist
+- Awesome Flutter Snippets
+- Bloc
+- Error Lens
 
 ### Automatically installed plugins
 - C#
