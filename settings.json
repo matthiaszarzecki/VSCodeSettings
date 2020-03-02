@@ -17,6 +17,7 @@
         "Pluginfile": "ruby",
         "Snapfile": "ruby",
         "Appfile": "ruby",
+        "Scanfile": "ruby",
         "commands_*.txt": "ruby",
         "commands_shell.txt": "shellscript",
         "commands_docker.txt": "shellscript",
@@ -32,8 +33,20 @@
     "csharp.suppressDotnetInstallWarning": true,
     "dart.previewFlutterUiGuides": true,
     "explorer.confirmDelete": false,
-    "editor.rulers": [120],
-    "editor.wordWrapColumn": 120,
-    "dart.previewFlutterOutline": true,
-    "vscode_custom_css.imports": ["file:///Users/matthias.zarzecki/vscode_settings/synthwave84.css"],
+    "editor.rulers": [
+        80
+    ],
+    "editor.wordWrapColumn": 80,
+    "workbench.startupEditor": "newUntitledFile",
+    "todo-tree.highlights.enabled": false,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[csharp]": {
+        "editor.defaultFormatter": "ms-vscode.csharp"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "omnisharp.useEditorFormattingSettings": false,
+    "workbench.colorTheme": "SynthWave '84",
+    "todo-tree.tree.showScanModeButton": false,
 }
