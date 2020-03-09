@@ -43,10 +43,11 @@
         "editor.defaultFormatter": "vscode.json-language-features"
     },
     "[csharp]": {
-        "editor.defaultFormatter": "ms-vscode.csharp"
+        "editor.defaultFormatter": "ms-dotnettools.csharp"
     },
     "explorer.confirmDragAndDrop": false,
     "omnisharp.useEditorFormattingSettings": false,
     "workbench.colorTheme": "SynthWave '84",
     "todo-tree.tree.showScanModeButton": false,
+    "apple-swift-format.enable": true,
 }
