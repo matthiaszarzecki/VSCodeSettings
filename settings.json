@@ -47,7 +47,7 @@
     },
     "explorer.confirmDragAndDrop": false,
     "omnisharp.useEditorFormattingSettings": false,
-    "workbench.colorTheme": "SynthWave '84",
     "todo-tree.tree.showScanModeButton": false,
     "apple-swift-format.enable": true,
+    "workbench.colorTheme": "SynthWave '84",
 }
