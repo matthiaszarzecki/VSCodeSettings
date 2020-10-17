@@ -5,24 +5,18 @@
 My custom settings for Visual Studio Code
 
 ### Manually installed plugins
-- Beautify
 - Bracket Pair Colorizer 2
-- Lorem Ipsum
 - ESLint
-- PrintCode
 - Sort Lines
 - Material Icon Theme
 - Swift Language
 - Todo Tree
 - SynthWave '84
-- Custom CSS and JS Loader (needed for SynthWave '84)
 - Better Comments
 - Alphabetical Order
 - Color Highlight
 - Image Preview
 - Pubspec Assist
-- Awesome Flutter Snippets
-- Bloc
 - Error Lens
 
 ### Automatically installed plugins
