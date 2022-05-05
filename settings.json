@@ -28,6 +28,7 @@
         ".flutter-plugins": "C#",
         ".packages": "C#",
         ".lock": "ruby",
+        ".resolved": "json",
     },
     "workbench.iconTheme": "material-icon-theme",
     "csharp.suppressDotnetInstallWarning": true,
