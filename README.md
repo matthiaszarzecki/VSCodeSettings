@@ -5,7 +5,6 @@
 My custom settings for Visual Studio Code.
 
 ### Manually installed plugins
-- Bracket Pair Colorizer 2
 - ESLint
 - Sort Lines
 - Material Icon Theme
@@ -18,6 +17,8 @@ My custom settings for Visual Studio Code.
 - Image Preview
 - Pubspec Assist
 - Error Lens
+- GitLens
+- Code Spell Checker
 
 ### Automatically installed plugins
 - C#
